@@ -112,6 +112,7 @@ fun LoginScreen(navController: NavController, viewModel: AuthViewModel = koinVie
                 style = MaterialTheme.typography.headlineMedium.copy(
                     fontWeight = FontWeight.Bold,
                     fontSize = 12.sp
+
                 ),
                 modifier = Modifier.padding(bottom = 12.dp)
             )
