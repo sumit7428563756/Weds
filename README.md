@@ -1,11 +1,11 @@
 # Weds - Demo Wedding Shopping App
 
-![App Banner](assets/banner.png)  
+![App Banner](![WEDS](https://github.com/user-attachments/assets/3acb9009-3533-4b13-8e1a-77298435f1b0)
+)  
 
 Weds is a **demo wedding shopping app** designed to showcase modern Android development techniques. It features a beautiful UI/UX, smooth navigation, and real-time data handling.
 
 ---
-
 ## 🌟 Features
 
 - **User Authentication** using [Supabase](https://supabase.com/)  
@@ -15,14 +15,6 @@ Weds is a **demo wedding shopping app** designed to showcase modern Android deve
 - **Pie Charts** for shopping cost calculations  
 - **Beautiful UI/UX** with animations and responsive layouts  
 - **Shopping List Management** for wedding items  
-
----
-
-## 📱 Screenshots
-
-![Home Screen](assets/screenshots/home.png)  
-![Shopping List](assets/screenshots/shopping_list.png)  
-![Pie Chart](assets/screenshots/pie_chart.png)  
 
 ---
 
@@ -41,4 +33,4 @@ Weds is a **demo wedding shopping app** designed to showcase modern Android deve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weds-demo.git
+   https://github.com/sumit7428563756/Weds.git
