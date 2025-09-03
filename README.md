@@ -1,7 +1,8 @@
 # Weds - Demo Wedding Shopping App
 
-![App Banner](![WEDS](https://github.com/user-attachments/assets/3acb9009-3533-4b13-8e1a-77298435f1b0)
-)  
+![App Banner](https://github.com/user-attachments/assets/3acb9009-3533-4b13-8e1a-77298435f1b0)
+
+ 
 
 Weds is a **demo wedding shopping app** designed to showcase modern Android development techniques. It features a beautiful UI/UX, smooth navigation, and real-time data handling.
 
